@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre Bibo</h1>
-<h3 align="center">backend developer from Istanbul/Turkey</h3>
+<h3 align="center">Backend developer from Istanbul/Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biboemre&label=Profile%20views&color=0e75b6&style=flat" alt="biboemre" /> </p>
 
@@ -20,3 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biboemre&show_icons=true&locale=en" alt="biboemre" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biboemre&" alt="biboemre" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=biboemre&label=Profile%20views&color=0e75b6&style=flat" alt="biboemre" /> </p>
+
